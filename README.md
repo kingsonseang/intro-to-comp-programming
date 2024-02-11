@@ -27,21 +27,22 @@ This project is licensed under the [MIT License](#). -->
 # Introduction to Computer Programming (Python) - Practical Report Manual
 Welcome to the Practical Report Manual for SEN 1101 students at UNICROSS!
 
-Contents:
+### Contents:
 This repository contains:
 
 - [name-of-file].py: Implementation of a lab report.
 
 Each example is written in Python 3.
 
-Getting Started:
+## Getting Started:
 To run the files, you'll need to have Python installed on your system.
 
-Running a File:
+## Running a File:
 Use the following command to run a Python file:
 
 ```sh
-python [name-of-file].py```
+python [name-of-file].py
+```
 
-License:
+## License:
 This project is licensed under the MIT License.

@@ -37,7 +37,7 @@ Each example is written in Python 3.
 ## Getting Started:
 To run the files, you'll need to have Python installed on your system.
 
-## Running a File:
+### Running a File:
 Use the following command to run a Python file:
 
 ```sh

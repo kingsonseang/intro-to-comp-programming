@@ -1,7 +1,7 @@
 ''' Question '''
 
-# Write a program that displays a temperature conversion table for degrees Celsius and degrees Fahrenheit. 
-# The table should include rows for all temperatures between 0 and 100 degrees Celsius that are multiples of 10 degrees Celsius. 
+# Write a program that displays a temperature conversion table for degrees Celsius and degrees Fahrenheit.
+# The table should include rows for all temperatures between 0 and 100 degrees Celsius that are multiples of 10 degrees Celsius.
 # Include appropriate headings on your columns. The formula for converting between degrees Celsius and degrees Fahrenheit can be found on the internet.
 
 ''' Algorithm '''
@@ -45,25 +45,25 @@ print("+----------+-------------+")
 
     # install rich globally - not recommStoped
         # python -m pip install rich
-    
+
     # or use a virtal environment
 
         # using venv
             # python -m venv venv
             # source venv/bin/activate
             # pip install rich
-        
+
         # or using virtualenv
             # virtualenv venv
             # source venv/bin/activate
             # pip install rich
-        
+
         # or using conda
             # conda create -n rich
             # conda activate rich
             # pip install rich
-        
-        # to deactivate use 
+
+        # to deactivate use
             #  deactivate
 
 # # using rich
@@ -77,14 +77,14 @@ print("+----------+-------------+")
 # # Add columns to the table
 # for column in columns:
 #     table.add_column(column)
-    
+
 # # Generate temperature conversion table rows
 # for celsius in range(0, 101, 10):
 #     fahrenheit = celsius_to_fahrenheit(celsius)
 #     table.add_row(str(celsius), f"{fahrenheit:.2f}", style='bright_green')
-    
+
 # # Create console instance
 # console = Console()
 
-# # Print the table
-# console.print(table)
+# Print the table
+console.print(table)

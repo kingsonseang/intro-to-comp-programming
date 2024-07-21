@@ -1,12 +1,12 @@
 <!-- # Introduction to Computer Programming (Python) - Practical Report Manual
 
-Project folder for SEN 1101 students UNICROSS
+Project folder for SEN 1101 students UNICROSS 2023/2024
 
 ## What's inside?
 
 This Repository contains:
 
-- `**.py`: contains an implementation of a lab report
+- `**.py`: contains an implementation of a lab reports
 
 Each example is 100% [Python3](https://www.python.org/).
 

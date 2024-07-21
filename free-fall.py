@@ -31,9 +31,6 @@ initial_speed = 0
 # Set acceleration due to gravity
 acceleration = 9.8  # m/s^2
 
-# Calculate the distance fallen
-distance_fallen = 0.5 * acceleration * height
-
 # Calculate the final speed using the formula vf = sqrt(Vi² + 2ad)
 # Vi is the initial speed (0 m/s in this case)
 # a is the acceleration due to gravity (9.8 m/s²)
